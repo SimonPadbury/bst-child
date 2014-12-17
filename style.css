@@ -11,8 +11,14 @@ NOTES:
 
 (1.) You can't put your styles in this file (style.css). Put them in css/bst-css
 
-(2.) Since downloads of BST from GitHub will be in a folder named 'bst-master', therefore in the CSS comment header above I have put 'Template: bst-master'. If you rename the BST root folder, you must make the same change to the Template: line above
+(2.) Since downloads of BST from GitHub will be in a folder named 'bst-master', 
+therefore in the CSS comment header above I have put 'Template: bst-master'. 
+If you rename the BST root folder, you must make the same change to the 
+Template: line above
 
-(2.) There is a 'test' style rule in css/bst-child.css - if this child theme is working, your webpage <body> will turn GREEN. This will show you whether the you have installed this child theme (and hence the parent theme) correctly. Delete the test style rule when you no longer need it!
+(3.) There is a 'test' style rule in css/bst-child.css - if this child theme is 
+working, your webpage <body> will turn GREEN. This will show you whether the you 
+have installed this child theme (and hence the parent theme) correctly. 
 
+Delete the test style rule when you no longer need it!
 */
