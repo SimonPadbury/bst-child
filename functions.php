@@ -1,6 +1,6 @@
 <?php
 /*
-This child theme needs top instruct WordPress where to find the stylesheet, as below.
+This child theme needs to instruct WordPress where to find the stylesheet, as below.
 
 Notice that the 'add_action' line ends with '101'? This guarantees that the child stylesheet 
 (bst-child.css') is added to the webpage <head> AFTER the BST parent theme stylesheets.
