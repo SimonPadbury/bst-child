@@ -23,7 +23,7 @@ So far, all it has is an enqueue function for the linking the stylesheet `css/bs
 
 (1.) You can't put your styles in this file (style.css). Put them in css/bst-child.css
 
-(2.) Since downloads of BST from GitHub will be in a folder named 'bst-master', therefore in the CSS comment header above I have put 'Template: bst-master'. If the BST Plus root folder has a different name, then you must make the SAME change to the Template line in the CSS comment above.
+(2.) Since downloads of BST from GitHub will be in a folder named 'bst-master', therefore in the CSS comment header above I have put 'Template: bst-master'. If the BST root folder has a different name, then you must make the SAME change to the Template line in the CSS comment above.
 
 (3.) You can make this child theme your own by simply:
 
